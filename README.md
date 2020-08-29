@@ -94,7 +94,9 @@ file "gstnvdsmeta.h"
   
 ----------------------------------------------------------------------------------------------------------------
   
-credit: https://ngc.nvidia.com/catalog/containers/nvidia:deepstream;https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/blob/master
+credit:
+https://ngc.nvidia.com/catalog/containers/nvidia:deepstream
+https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/blob/master
 
   
 
